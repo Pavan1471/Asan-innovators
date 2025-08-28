@@ -48,8 +48,8 @@ const Contact = () => {
     {
       icon: MapPin,
       title: 'Visit Us',
-      content: 'Ground Floor NO. 33, NMIT College Road',
-      subtitle: 'Yelahanka, Jayamuni Nagar, Bengaluru, Karnataka',
+      content: 'Hyderabad',
+      subtitle: '500001',
       color: 'from-red-500 to-red-600',
       action: 'https://maps.google.com/?q=NMIT+College+Road+Yelahanka+Bengaluru'
     }
