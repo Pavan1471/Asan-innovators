@@ -364,7 +364,7 @@ const Contact = () => {
               <p className="text-slate-300 text-xs">Schedule a free 30-minute consultation call</p>
             </div>
             <a
-              href="tel:+918121253906"
+              href="tel:+918639490029"
               className="bg-white/10 hover:bg-white/20 text-white px-4 sm:px-5 py-2 rounded-lg font-semibold text-xs sm:text-sm transition-all duration-300"
             >
               Call Now
